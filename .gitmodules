@@ -1,0 +1,6 @@
+[submodule "stacks/wordpress"]
+	path = stacks/wordpress
+	url = https://github.com/VSLCatena/docker-wordpress
+[submodule "stacks/laravel"]
+	path = stacks/laravel
+	url = https://github.com/VSLCatena/docker-laravel
